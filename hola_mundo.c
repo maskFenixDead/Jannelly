@@ -7,5 +7,9 @@ int main()
 
     getch(); /* Pausa */
 
+    printf("Hola, mucho gusto")
+
     return 0;
+
 }
+
